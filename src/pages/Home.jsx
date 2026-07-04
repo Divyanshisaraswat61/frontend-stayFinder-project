@@ -15,6 +15,7 @@ const Home = () => {
             <FeaturedHotels />
             <LuxuryBanner />
             <CTASection />
+            <WhyChooseUs />
             <Footer />
         </>
     );

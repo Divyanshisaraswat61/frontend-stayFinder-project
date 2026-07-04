@@ -25,7 +25,7 @@ const Hero = () => {
       <div className="absolute inset-0 bg-black/55"></div>
 
     
-      <div  //hero page content
+      <div  
         ref={heroRef}
         className="relative z-10 flex h-full flex-col items-center justify-center px-6 text-center"
       >
